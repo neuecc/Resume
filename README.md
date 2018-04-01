@@ -47,7 +47,7 @@ Grani, Inc. TOKYO, JAPAN : Oct 2012 - May 2018
 - Developed and OpenSourcing some libraries that used on “Black Knight and White Devil”
   - [UniRx](https://github.com/neuecc/UniRx/), [MessagePack for C#](https://github.com/neuecc/MessagePack-CSharp/)(fastest serializer in C#/Unity), [MagicOnion](https://github.com/neuecc/MagicOnion)(gRPC based HTTP/2 API and Streaming framework), [MasterMemory](https://github.com/neuecc/MasterMemory)(In-Memory database)
 - Leading “Valhalla-Gate” architecture that built on ASP.NET MVC, MySQL, Redis with AWS
-  -	Architecture: https://www.slideshare.net/neuecc/net-22662425
+  -	Architecture: https://www.slideshare.net/neuecc/aws-windowscnet
 - Managed building monitoring system
   -	NewRelic, Datadog
 - Managed building analysis system

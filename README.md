@@ -1,4 +1,4 @@
-Resume(2018.03)
+Resume(2018.06)
 ===
 Printable PDF Version -> [Resume - Yoshifumi Kawai](https://github.com/neuecc/Resume/blob/master/Resume%20-%20Yoshifumi%20Kawai.pdf)
 
@@ -29,6 +29,14 @@ QUALIFICATIONS
   
 PROFESSIONAL EXPERIENCE
 ===
+
+New World, Inc. TOKYO, JAPAN : Apr 2018-
+---
+**Founder, CEO, CTO**
+
+[http://new-world.co/](http://new-world.co/)
+
+Founded and starting to the consulting business for C#, Game Development(Unity).
 
 Grani, Inc. TOKYO, JAPAN : Oct 2012 - May 2018
 ---

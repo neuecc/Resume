@@ -1,4 +1,4 @@
-Resume(2018.06)
+Resume(2018.07)
 ===
 Printable PDF Version -> [Resume - Yoshifumi Kawai](https://github.com/neuecc/Resume/blob/master/Resume%20-%20Yoshifumi%20Kawai.pdf)
 
@@ -96,7 +96,7 @@ EAST Co., Ltd. TOKYO, JAPAN : Apr 2008 - Dec 2011
 
 AWARDS
 ===
-Microsoft MVP for Visual Studio and Development Technologies(C#) : Apr,2011 - July,2018  
+Microsoft MVP for Visual Studio and Development Technologies(C#) : Apr,2011 - July,2019  
 
 PUBLICATION
 ===

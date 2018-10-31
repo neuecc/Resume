@@ -1,4 +1,4 @@
-Resume(2018.07)
+Resume(2018.10)
 ===
 Printable PDF Version -> [Resume - Yoshifumi Kawai](https://github.com/neuecc/Resume/blob/master/Resume%20-%20Yoshifumi%20Kawai.pdf)
 
@@ -7,9 +7,9 @@ INFO
 YOSHIFUMI KAWAI  
 E-mail: ils@neue.cc  
 Technical blog: http://neue.cc/  
-Twitter: [@neuecc](https://twitter.com/neuecc) (3946 followers)  
+Twitter: [@neuecc](https://twitter.com/neuecc) (4841 followers)  
 GitHub: https://github.com/neuecc (56 repositories)  
-Slideshare: https://www.slideshare.net/neuecc (44 slides)  
+Slideshare: https://www.slideshare.net/neuecc (47 slides)  
 
 QUALIFICATIONS
 ===
@@ -30,13 +30,17 @@ QUALIFICATIONS
 PROFESSIONAL EXPERIENCE
 ===
 
+Cysharp, Inc. TOKYO, JAPAN : Sep 2018-
+---
+**Founder, CEO, CTO**
+
+[https://cysharp.co.jp/](https://cysharp.co.jp/)
+
 New World, Inc. TOKYO, JAPAN : Apr 2018-
 ---
 **Founder, CEO, CTO**
 
 [http://new-world.co/](http://new-world.co/)
-
-Founded and starting to the consulting business for C#, Game Development(Unity).
 
 Grani, Inc. TOKYO, JAPAN : Oct 2012 - May 2018
 ---
